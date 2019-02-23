@@ -13,7 +13,7 @@ namespace traverse_grid
         {
             traverse t = new traverse();
             int x=t.solve();
-            Console.WriteLine(x.ToString());
+            Console.WriteLine("noof movements:" +x.ToString());
 
 
 
