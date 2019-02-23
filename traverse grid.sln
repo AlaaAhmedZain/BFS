@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "traverse grid", "traverse grid\traverse grid.csproj", "{903209D5-2BF1-47AC-A275-48C0510440C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903209D5-2BF1-47AC-A275-48C0510440C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903209D5-2BF1-47AC-A275-48C0510440C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903209D5-2BF1-47AC-A275-48C0510440C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903209D5-2BF1-47AC-A275-48C0510440C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA0BA1BE-2A7E-492B-861C-2CD41C0CDCA0}
+	EndGlobalSection
+EndGlobal
