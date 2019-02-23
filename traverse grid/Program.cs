@@ -15,6 +15,8 @@ namespace traverse_grid
             int x=t.solve();
             Console.WriteLine(x.ToString());
 
+
+
         }
     }
 }
